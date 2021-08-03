@@ -1,0 +1,4 @@
+C:\Users\Everton L. de Souza\Downloads\Projetos-em-CSharp-master\Trump\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+C:\Users\Everton L. de Souza\Downloads\Projetos-em-CSharp-master\Trump\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+C:\Users\Everton L. de Souza\Downloads\Projetos-em-CSharp-master\Trump\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+C:\Users\Everton L. de Souza\Downloads\Projetos-em-CSharp-master\Trump\src\obj\Debug\netcoreapp3.1\src.csproj.CoreCompileInputs.cache
